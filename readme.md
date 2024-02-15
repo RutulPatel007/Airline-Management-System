@@ -87,14 +87,7 @@ After each module completion the user is asked to go back to the main menu(1) or
 ## To view your ticket details, select the Account option from the menu, enter your PNR number, and submit the form. Your ticket details, including passenger information, flight details, and the date and time of the flight, will be displayed.
 
 
-#Individual ContriBution
 
-1. Sanchit Dogra -- print_date1_time.c,mainfile.c Modules
-2. Rutul Patel-- Cancellation.c Module ,makemefile.mak
-3. Vasu Aggarwal -- seats.txt using [logic.c],diff.c 
-4. Aryaman Pathak-- book.c ,dynamic_pricing.c Modules 
-5. Rishi Patel-- Passengerdetail.c , payment_complete.c Modules database.txt using [logic.c]
-6. Siddhesh Deshpande--combine.h,Modularity,Readme file,web_check_in.c Module
 
 # Constraints
 1.user can only book for flights on a day within one week from booking
